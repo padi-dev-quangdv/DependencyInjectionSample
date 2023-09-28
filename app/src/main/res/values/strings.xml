@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DependencyInjectionSample</string>
+    <string name="_2020">2020</string>
+    <string name="_1h30m">1h 30m</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="favorite_movie">Favorite Movie</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+</resources>
